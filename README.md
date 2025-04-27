@@ -116,7 +116,3 @@ The final performance on the test set can be evaluated by adding code to the not
 * Tune hyperparameters (learning rate, batch size, optimizer, dropout rate).  
 * Implement data augmentation techniques to improve generalization.  
 * Explore transfer learning using pre-trained models.
-
-## **License**
-
-\[Specify your license here, e.g., MIT, Apache 2.0, etc.\]
